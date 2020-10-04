@@ -1,0 +1,33 @@
+{
+  "name": "js-lib-template",
+  "version": "0.1.0",
+  "description": "A javascript library template",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "keywords": ["javascript"],
+  "author": "Pablo García <pagfullana@gmail.com>",
+  "engines": {
+    "node": ">8.0"
+  },
+  "homepage": "https://github.com/pgarcia-coder/js-lib-template",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pgarcia-coder/js-lib-template/LICENSE"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Pablo García",
+      "email": "pagfullana@gmail.com",
+      "url": "https://github.com/pgarcia-coder"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pgarcia-coder/js-lib-template"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
